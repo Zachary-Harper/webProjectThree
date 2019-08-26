@@ -33,6 +33,14 @@ img {
     height: 184px;
 }
 
+#leftButton {
+    float: left;
+}
+
+#rightButton {
+    float: right;
+
+}
 
 .center {
     display: block;
